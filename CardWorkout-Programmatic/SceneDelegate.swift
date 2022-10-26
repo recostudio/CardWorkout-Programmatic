@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  CardWorkout-Programmatic
-//
-//  Created by Maciej Szostak on 26/10/2022.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
