@@ -11,6 +11,8 @@
 		BE71151529093948006B9BD4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE71151429093948006B9BD4 /* SceneDelegate.swift */; };
 		BE71151C29093948006B9BD4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE71151B29093948006B9BD4 /* Assets.xcassets */; };
 		BE71151F29093948006B9BD4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE71151D29093948006B9BD4 /* LaunchScreen.storyboard */; };
+		BE71152729095EFE006B9BD4 /* CardSelectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE71152629095EFE006B9BD4 /* CardSelectionVC.swift */; };
+		BE711529290960BB006B9BD4 /* CWButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE711528290960BB006B9BD4 /* CWButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		BE71151B29093948006B9BD4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BE71151E29093948006B9BD4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BE71152029093948006B9BD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BE71152629095EFE006B9BD4 /* CardSelectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardSelectionVC.swift; sourceTree = "<group>"; };
+		BE711528290960BB006B9BD4 /* CWButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CWButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				BE71151B29093948006B9BD4 /* Assets.xcassets */,
 				BE71151D29093948006B9BD4 /* LaunchScreen.storyboard */,
 				BE71152029093948006B9BD4 /* Info.plist */,
+				BE71152629095EFE006B9BD4 /* CardSelectionVC.swift */,
+				BE711528290960BB006B9BD4 /* CWButton.swift */,
 			);
 			path = "CardWorkout-Programmatic";
 			sourceTree = "<group>";
@@ -133,6 +139,8 @@
 			files = (
 				BE71151329093948006B9BD4 /* AppDelegate.swift in Sources */,
 				BE71151529093948006B9BD4 /* SceneDelegate.swift in Sources */,
+				BE71152729095EFE006B9BD4 /* CardSelectionVC.swift in Sources */,
+				BE711529290960BB006B9BD4 /* CWButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
